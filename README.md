@@ -4,7 +4,7 @@ This application is a forum where users can post questions and other users can v
 
 *Note: This application was built as a clone stackoverflow.com*
 
-This project focuses on many-to-many database relationships with Entity Framework Core and cookie authentication. It uses C# ASP.NET, MVC, Entity Framework Core, LINQ to SQL, HTML Razor,  JQuery, and Ajax. 
+This project focuses on many-to-many database relationships with Entity Framework Core and cookie authentication. It uses C# ASP.NET, MVC, Entity Framework Core,  HTML Razor,  JQuery, and Ajax. 
 
 
 ## To Run this Project: 
